@@ -10,11 +10,11 @@
 
 <hr>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dogunyo&count_private=true&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=doguny0&count_private=true&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogunyo&countprivate=true&layout=compact&langs_count=10&hide=html)](https://github.com/dogunyo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doguny0&countprivate=true&layout=compact&langs_count=10&hide=html)](https://github.com/dogunyo/github-readme-stats)
 
 <hr>
 
