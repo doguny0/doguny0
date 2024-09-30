@@ -31,8 +31,8 @@
 
 <a href="https://www.linkedin.com/in/dennis-ogunyo-13230631b/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-dennisogunyo-black?style=flat-square&logo=linkedin"></a>
 
-<a href="mailto:denogunyo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-denogunyo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:denogunyo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dennis.ogunyo@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=dogunyo.dogunyo)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=doguny0.doguny0)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 </p>
