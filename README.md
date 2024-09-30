@@ -14,7 +14,7 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doguny0&countprivate=true&layout=compact&langs_count=10&hide=html)](https://github.com/doguny0/github-readme-stats)
+
 
 <hr>
 
