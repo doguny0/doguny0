@@ -18,7 +18,7 @@
 
 <hr>
 
-<!-- <a href="https://github.com/dogunyo/github-readme-stats"><img alt="Ogunyo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogunyo&hide=html&langs_count=10&count_private=true&theme=github_dark_blue" /></a>
+<!-- <a href="https://github.com/doguny0/github-readme-stats"><img alt="Ogunyo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doguny0&hide=html&langs_count=10&count_private=true&theme=github_dark_blue" /></a>
  
 <hr>
  -->
